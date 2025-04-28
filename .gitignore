@@ -1,0 +1,20 @@
+.vs/
+
+#Ignoring Debug
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Cached Files
+Thumbs.db
+ehthumbs.db
+
+#config Folder
+Desktop.ini
+
